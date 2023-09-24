@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm ByKit</h1>
-<h3 align="center">ByKit is a technology organization that specializes in delivering top-notch software solutions using Laravel, React, Vue, and NestJS.</h3>
+<h1 align="center">Hi 👋, I'm ByteSuite</h1>
+<h3 align="center">ByteSuite is a technology organization that specializes in delivering top-notch software solutions using Laravel, React, Vue, and NestJS.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devhau&label=Profile%20views&color=0e75b6&style=flat" alt="devhau" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devhau" alt="devhau" /></a> </p>
 
-- 🔭 I’m currently working on [ByKit](https://github.com/ByKit/ByKit)
+- 🔭 I’m currently working on [ByteSuite](https://github.com/ByteSuite/ByteSuite)
 
-- 👯 I’m currently working on [Laravel PackageKit](httpshttps://github.com/bykit/laravel)
+- 👯 I’m currently working on [Laravel PackageKit](httpshttps://github.com/ByteSuite/laravel)
 
 - 🤝 I’m currently working on [DevHau](https://github.com/DevHau)
 
